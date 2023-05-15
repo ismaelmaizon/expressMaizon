@@ -1,0 +1,46 @@
+[
+    {
+    "ID": 1,
+    "nombre": "Camiseta de algodón",
+    "descripcion": "Camiseta básica de algodón 100%, disponible en varios colores y tallas.",
+    "precio": 15.99,
+    "proveedor": "CottonTee Co."
+    },
+    {
+    "ID": 2,
+    "nombre": "Pantalones vaqueros",
+    "descripcion": "Pantalones vaqueros de corte recto, disponibles en varios colores y tallas.",
+    "precio": 29.99,
+    "proveedor": "DenimCo."
+    },
+    {
+    "ID": 3,
+    "nombre": "Zapatillas deportivas",
+    "descripcion": "Zapatillas deportivas de alta calidad, disponibles en varios colores y tallas.",
+    "precio": 49.99,
+    "proveedor": "SportShoe Co."
+    },
+    {
+    "ID": 4,
+    "nombre": "Reloj de pulsera",
+    "descripcion": "Reloj de pulsera analógico, resistente al agua, con correa de cuero genuino.",
+    "precio": 79.99,
+    "proveedor": "Timepiece Co."
+    },
+    {
+    "ID": 5,
+    "nombre": "Bolso de cuero",
+    "descripcion": "Bolso de cuero de alta calidad, con múltiples compartimentos y correa ajustable.",
+    "precio": 119.99,
+    "proveedor": "LeatherWorks Co."
+    },
+    {
+    "ID": 6,
+    "nombre": "Gafas de sol",
+    "descripcion": "Gafas de sol polarizadas, con montura de acetato y lentes de alta calidad.",
+    "precio": 99.99,
+    "proveedor": "SunShades Co."
+    }
+]
+
+  
